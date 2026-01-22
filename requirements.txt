@@ -1,4 +1,5 @@
 gunicorn
-Flask
+flask
 scikit-learn
 joblib
+sklearn
